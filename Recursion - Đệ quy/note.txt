@@ -1,0 +1,11 @@
+Giới thiệu về đệ quy | Định nghĩa đệ quy 
+    - Recursion - Đệ quy: Một hàm tự gọi đến chính nó
+
+Đặc điểm của Đệ quy:
+Khi nào sử dụng Đệ quy?
+    Một bài toán chỉ áp dụng được phương pháp đệ quy nếu có đủ 2 yếu tố sau đây:
+        - Bài toán cơ sở / Điều kiện dừng
+        - Công thức quy nạp: Phải đưa về bài toán con nhỏ hơn (cuối cùng là bài toán cơ sở)
+
+
+Cách chạy của đệ quy có thể được biếu diễn bằng cách sử dụng một cây đệ quy (call tree)
